@@ -1,0 +1,23 @@
+{
+  "name": "my_music_collection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atoscanoricardo/my_music_collection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atoscanoricardo/my_music_collection/issues"
+  },
+  "homepage": "https://github.com/atoscanoricardo/my_music_collection#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
